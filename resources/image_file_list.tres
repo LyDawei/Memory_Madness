@@ -1,0 +1,7 @@
+[gd_resource type="Resource" script_class="ImageFileList" load_steps=2 format=3 uid="uid://c0v21vtqfwfs0"]
+
+[ext_resource type="Script" path="res://resources/image_file_list.gd" id="1_3lqkm"]
+
+[resource]
+script = ExtResource("1_3lqkm")
+file_names = Array[String](["alienBeige_square.png", "alienGreen_suit.png", "alienYellow_square.png", "ambulance_SE.png", "awningGreen.png", "awningGreenRed.png", "barrelRed_up.png", "boxAlt.png", "boxItem.png", "brickSpecial08.png", "brickSpecial10.png", "brickYellow03.png", "buttonGreen.png", "cactus.png", "caneRedTop.png", "carGreen4_001.png", "carSilver5_013.png", "chipRedWhite.png", "chipWhiteBlue.png", "cockpitBlue_1.png", "creamMocca.png", "crosshair_blue_small.png", "dieRed5.png", "doorKnob.png", "dotBlue.png", "elementExplosive045.png", "elementStone046.png", "element_green_square.png", "element_purple_cube_glossy.png", "element_red_square_glossy.png", "fence.png", "genericItem_color_090.png", "grassMid.png", "gummyWormGreenMid.png", "keyBlue.png", "ladder_mid.png", "laserSwitchGreenOff.png", "lock_blue.png", "lock_red.png", "piecePurple_single13.png", "pieceRed_multi03.png", "pineSapling.png", "present_large_red.png", "rpgTile169.png", "rpgTile175.png", "text_cross_small.png"])

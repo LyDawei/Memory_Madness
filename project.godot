@@ -11,8 +11,13 @@ config_version=5
 [application]
 
 config/name="Memory_Madness"
+run/main_scene="res://scenes/MasterScene.tscn"
 config/features=PackedStringArray("4.3", "GL Compatibility")
-config/icon="res://icon.svg"
+
+[autoload]
+
+ImageManager="*res://singletons/Image_Manager.gd"
+GameManager="*res://singletons/Game_Manager.gd"
 
 [display]
 
